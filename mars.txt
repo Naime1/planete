@@ -3,3 +3,4 @@ The two moons may be at problems for wolfman
 There are some interesting rocks
 I can do changes
 it's fun to work in a collaborative way
+Test git push as collaborator
